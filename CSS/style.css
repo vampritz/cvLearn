@@ -1,0 +1,17 @@
+
+body{
+    background-color: #C9D8B6;
+}
+hr{
+   
+    width: 7%;
+    /* when one value is there its applied to all four side if 2 then 1st value top and bottom second left right if 3 1st to top 2nd to left right 3rd to botom */
+    border-style: dotted none none ; 
+    border-color: grey;
+    border-width: 5px;
+    border-top-style: dotted;
+}
+
+h3,h1 {
+    color: #66BFBF;
+}
